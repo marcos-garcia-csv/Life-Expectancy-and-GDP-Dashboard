@@ -1,4 +1,4 @@
-# Life Expectancy & GDP Dashboard - Power BI
+# Life Expectancy & GDP Dashboard
 
 [`Link`](https://app.powerbi.com/groups/me/reports/3f5bcb0b-fc37-47d6-8859-7b7d095046b3/1b3268d8d030c3b6baca?experience=power-bi)
 
